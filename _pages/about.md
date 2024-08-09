@@ -7,12 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-I am....
+I am a doctoral student at [Information Science and Engineering](https://www.kth.se/is/ise) division, EECS school at KTH, starting Jan 9th, 2023. Previously, I received a master's degree from Chalmers University of Technology in 2022, and a bachelor's degree from Beihang University in 2020. In 2021, I had the chance to investigate wideband localization under the supervision of Fan Jiang and [Henk Wymeersch](https://sites.google.com/site/hwymeers/Home), which experience enlightened my journey towards an independent researcher. 
+
+During my doctoral study, my research shifted to distributed learning, currently, I'm studying Federated learning over coded wireless networks, under the supervision of Prof. [Mikael Skoglund](https://people.kth.se/~skoglund/) and Prof. [Ming Xiao](https://www.kth.se/profile/mingx).
 
 **Teaching**
-
-mmmmmm
-
+[FEO3250/EQ2845 Information Theory and Source Coding](https://www.kth.se/student/kurser/kurs/EQ2845?l=en) (from Jan, 2023)
 
 
 **Publications**
@@ -21,26 +21,6 @@ mmmmmm
 
 **News and updates**
 
-
-#Publications
-#======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its 
-
-
-
-#Teaching
-#======
-
-
-
-#News and updates
-#======
-
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
-
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
 
 **Markdown generator**
 
