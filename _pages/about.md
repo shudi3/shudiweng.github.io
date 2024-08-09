@@ -12,21 +12,17 @@ I am a doctoral student at [Information Science and Engineering](https://www.kth
 
 Currently, I'm studying federated learning over coded wireless networks, under the supervision of Prof. [Mikael Skoglund](https://people.kth.se/~skoglund/) and Prof. [Ming Xiao](https://www.kth.se/profile/mingx). During my doctoral study, Mikael and Ming provide me with great freedom and support in my growth, which has nurtured my independence and confidence as a researcher.
 
+Research
+======
+
+**Research Project**
+
+**Publications**
+
+**News and updates**
+
 Teaching
 ======
 
 [FEO3250/EQ2845 Information Theory and Source Coding](https://www.kth.se/student/kurser/kurs/EQ2845?l=en) (2023 spring, 2024 spring)
-
-
-**Publications**
-
-
-
-**News and updates**
-
-
-**Markdown generator**
-
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
 
