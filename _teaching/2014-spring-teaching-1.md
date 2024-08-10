@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 1"
-collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+title: "FEO3250/EQ2845 Information Theory and Source Coding"
+collection: #TA
+type: "Master/PhD level course"
+permalink: https://www.kth.se/student/kurser/kurs/EQ2845?l=en
+venue: "EECS/Intelligent Systems"
+date: 2023 spring, 2024 spring
+location: "Stockholm, SE"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I work as a TA for this course, where my responsibilities include leading 12 tutorial lectures, managing 5 assignments, and assisting with exam grading.
 
 Heading 1
 ======
