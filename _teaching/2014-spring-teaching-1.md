@@ -1,8 +1,8 @@
 ---
-title: "Information Theory and Source Coding"
+title: "[Information Theory and Source Coding](https://www.kth.se/student/kurser/kurs/EQ2845?l=en)"
 collection: teaching
 type: "Master and PhD level course"
-permalink: https://www.kth.se/student/kurser/kurs/EQ2845?l=en
+permalink: 
 venue: "EECS School, KTH"
 date: 2015-01-01
 location: "Stockholm, SE"
