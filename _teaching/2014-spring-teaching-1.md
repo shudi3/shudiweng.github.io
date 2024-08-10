@@ -1,12 +1,3 @@
----
-title: "Teaching"
-collection: teaching
-type: ""
-permalink: 
-venue: ""
-date: 
-location: ""
----
 
 [**FEO3250/EQ2845 Information Theory and Source Coding**](https://www.kth.se/student/kurser/kurs/EQ2845?l=en) (2023, 2024) <br />
 *Master and PhD level course, EECS School, KTH* <br />
