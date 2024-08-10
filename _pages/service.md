@@ -11,7 +11,7 @@ redirect_from:
 I work as a TA for this course, where my responsibilities include leading 12 tutorial lectures, managing 5 assignments, and assisting with exam grading. [Course webpage](https://www.kth.se/student/kurser/kurs/EQ2845?l=en)
 
 ## Reviewing
-**Conference:** ICC workshop
+**-Conference:** ICC workshop
 
 ## Supervision
 
