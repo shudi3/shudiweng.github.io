@@ -1,6 +1,6 @@
 ---
 title: "FEO3250/EQ2845 Information Theory and Source Coding"
-collection: #TA
+collection: KTH
 type: "Master/PhD level course"
 permalink: https://www.kth.se/student/kurser/kurs/EQ2845?l=en
 venue: "EECS/Intelligent Systems"
