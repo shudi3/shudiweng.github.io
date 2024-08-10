@@ -12,17 +12,8 @@ I am a doctoral student at [Information Science and Engineering](https://www.kth
 
 My doctoral study shifts to federated learning over coded wireless networks, under the supervision of Prof. [Mikael Skoglund](https://people.kth.se/~skoglund/) and Prof. [Ming Xiao](https://www.kth.se/profile/mingx). My supervisors have offered me great freedom and patience, cultivating my independence and strengthening my confidence.
 
-Research
+News <br />
 ======
-
-**News and updates**<br />
 [2024/08] Our paper about cooperative gradient coding for semi-decentralized federated learning is accepted by ***Globecom 2024***!<br />
 [2023/12] A short introduction to our research on the impact of the wideband effect on localization is now available on [Youtube](https://www.youtube.com/watch?v=hFphXLnPKRY&t=0s)! 
-
-**Publications and Preprints**
-
-Teaching and Supervision
-======
-
-[FEO3250/EQ2845 Information Theory and Source Coding](https://www.kth.se/student/kurser/kurs/EQ2845?l=en) (2023 spring, 2024 spring)
 
