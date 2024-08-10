@@ -2,7 +2,7 @@
 title: "Information Theory and Source Coding"
 collection: teaching
 type: "Master and PhD level course"
-permalink: 
+permalink: [Course webpage](https://www.kth.se/student/kurser/kurs/EQ2845?l=en)
 venue: "EECS School, KTH"
 date: 2023, 2024
 location: "Stockholm, SE"
