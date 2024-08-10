@@ -17,6 +17,7 @@ Research
 
 **News and updates**
 [2024/08] Our paper about cooperative gradient coding for semi-decentralized federated learning is accepted by ***Globecom 2024***!
+[2023/12] A short introduction to our research on the impact of the wideband effect on localization is now available on [Youtube](https://www.youtube.com/watch?v=hFphXLnPKRY&t=0s)! 
 
 **Publications and Preprints**
 
