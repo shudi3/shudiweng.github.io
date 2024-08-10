@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 2"
+title: "Teaching"
 collection: teaching
 type: ""
 permalink: 
