@@ -1,11 +1,11 @@
 ---
 title: "Teaching"
 collection: teaching
-type: " "
-permalink: /teaching/2015-spring-teaching-1
-venue: " "
+type: 
+permalink: 
+venue: 
 date: 
-location: " "
+location: 
 ---
 
 **FEO3250/EQ2845 Information Theory and Source Coding** (2023, 2024) <br />
