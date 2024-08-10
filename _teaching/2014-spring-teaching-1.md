@@ -4,7 +4,7 @@ collection: teaching
 type: "Master and PhD level course"
 permalink: 
 venue: "EECS School, KTH"
-date: 2015-01-01
+date: 2023 spring, 2024 spring
 location: "Stockholm, SE"
 ---
 
