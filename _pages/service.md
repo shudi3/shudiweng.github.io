@@ -10,8 +10,8 @@ redirect_from:
 *Master and PhD level course, EECS School, KTH* <br />
 I work as a TA for this course, where my responsibilities include leading 12 tutorial lectures, managing 5 assignments, and assisting with exam grading. [Course webpage](https://www.kth.se/student/kurser/kurs/EQ2845?l=en)
 
-## Reviewer
-
+## Reviewing
+**Conference:** ICC workshop
 
 ## Supervision
 
