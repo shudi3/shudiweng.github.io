@@ -2,7 +2,7 @@
 title: "Teaching"
 collection: teaching
 type: ""
-permalink: /teaching_experience
+permalink: 
 venue: ""
 date: 
 location: ""
