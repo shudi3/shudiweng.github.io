@@ -1,10 +1,10 @@
 ---
 title: "FEO3250/EQ2845 Information Theory and Source Coding"
-collection: KTH
+collection: teaching
 type: "Master/PhD level course"
-permalink: "https://www.kth.se/student/kurser/kurs/EQ2845?l=en"
+permalink: https://www.kth.se/student/kurser/kurs/EQ2845?l=en
 venue: "EECS/Intelligent Systems"
-date: "2023 spring, 2024 spring"
+date: 2023 spring, 2024 spring
 location: "Stockholm, SE"
 ---
 
