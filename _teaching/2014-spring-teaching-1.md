@@ -1,8 +1,8 @@
 ---
-title: "Teaching experience 2"
+title: "Information Theory and Source Coding"
 collection: teaching
 type: "Master and PhD level course"
-permalink: /teaching/2015-spring-teaching-1
+permalink: https://www.kth.se/student/kurser/kurs/EQ2845?l=en
 venue: "EECS School, KTH"
 date: 2015-01-01
 location: "Stockholm, SE"
