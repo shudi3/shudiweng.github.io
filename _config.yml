@@ -9,7 +9,7 @@
 # Basic Site Setting
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Shudi's Webpage"
+title                    : "Welcome"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
